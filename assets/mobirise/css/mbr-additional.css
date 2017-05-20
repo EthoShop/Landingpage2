@@ -504,7 +504,7 @@ h6,
   color: #000000;
 }
 #header1-1 .mbr-section-title I {
-  font-size: 30px;
+  font-size: 36px;
   text-align: right;
   color: #ec1c19;
 }
@@ -514,6 +514,9 @@ h6,
 #header1-1 .mbr-section-lead {
   color: #000000;
   font-family: 'Open Sans', sans-serif;
+}
+#header1-3 .mbr-section-title {
+  color: #5f0de2;
 }
 
 
