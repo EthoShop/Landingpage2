@@ -515,6 +515,10 @@ h6,
   color: #000000;
   font-family: 'Open Sans', sans-serif;
 }
+#social-buttons3-4 .mbr-section-title,
+#social-buttons3-4 .btn-social {
+  color: #fff;
+}
 #header1-3 .mbr-section-title {
   color: #5f0de2;
 }

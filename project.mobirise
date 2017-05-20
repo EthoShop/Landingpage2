@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4,
+    "uniqCompNum": 7,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@"
   },
@@ -185,9 +185,40 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<i>EthoShop and Earth Day </i><i>music concert giveway &nbsp;</i>",
-          "text": "<b>Ticket office opens every 5 min to selected participants (so dont give up) &nbsp;</b><br><b>BUT FIRST purchase your subscribtion to EthoShop and obtain your coupon number to enter ticket office&nbsp;then</b>&nbsp;...<br><b>Select below icon to stand a chance to buy your Goldern Circle Earth Day &nbsp;ticket for $1&nbsp;</b><br><b style=\"font-style: normal;\">Good Luck &nbsp;draw starts 15 June 2017 at 8.00am</b><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-login mbr-iconfont mbr-iconfont-btn\"></span>Purchase Subscription for Coupon&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>Enter Draw&nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-refresh mbr-iconfont mbr-iconfont-btn\"></span>Next draw to commence in 3&nbsp;min &nbsp;and 36 seconds&nbsp;</a> "
+          "title": "<i>EthoShop and Earth Day </i><i>music concert giveway &nbsp;</i><br><i><br></i>",
+          "text": "<b>Ticket office opens every 5 min to selected participants (so dont give up) &nbsp;</b><br><b>BUT FIRST purchase your subscribtion to EthoShop and obtain your coupon number to enter ticket office&nbsp;then</b>&nbsp;...<br><br><b>Select ENTER DRAW icon to stand a chance to buy your </b><br><b>Goldern Circle Earth Day &nbsp;ticket for $1&nbsp;</b><br><b style=\"font-style: normal;\">Good Luck &nbsp;draw starts 15 June 2017 at 8.00am</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-login mbr-iconfont mbr-iconfont-btn\"></span>Purchase Subscription for Coupon&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>Enter Draw&nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-refresh mbr-iconfont mbr-iconfont-btn\"></span>Next draw to commence in 3&nbsp;min &nbsp;and 36 seconds&nbsp;<br>359 subscribers currently in ticket office&nbsp;<br>3490 tickets avaialble &nbsp;---- &nbsp;So keep entering until sold out<br></a> "
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-4",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
         },
         {
           "_name": "footer1",
@@ -239,6 +270,31 @@
               "color": "#5f0de2"
             }
           }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-6",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
         }
       ]
     },
